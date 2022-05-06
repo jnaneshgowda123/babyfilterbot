@@ -8,8 +8,8 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
+    "website": "https://illuzx",
+    "repository": "https://github.com/jnaneshgowda123/babyfilterbot.git",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "WEBHOOK": {
